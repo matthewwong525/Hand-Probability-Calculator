@@ -1,4 +1,5 @@
 ---------- INSTALLATION ----------
+===================================
 1. Install python `https://www.python.org/downloads/release/python-2715/`
 2. Download the `deckprobability` file
 3. Create a `combos.txt` file in the same folder as the deckprobability file and configure
@@ -8,6 +9,7 @@
 
 
 ---------- DEFINITIONS ----------
+===================================
 Non-Brick Perc:
 Chance of any of the combos inputted occur
 
@@ -38,6 +40,7 @@ as a seperator for the next hand that can produce the same final combo
 
 
 ---------- EXAMPLES ----------
+===============================
 eg.
 ```
 Non-Brick Perc --> 30.361965024% #aggregated chance of getting any of the combos below
