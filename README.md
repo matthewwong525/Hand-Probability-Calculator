@@ -39,6 +39,7 @@ as a seperator for the next hand that can produce the same final combo
 
 ---------- EXAMPLES ----------
 eg.
+```
 Non-Brick Perc --> 30.361965024% #aggregated chance of getting any of the combos below
 
 Cards in deck: 40
@@ -51,6 +52,7 @@ Cards in deck: 40
 ----3 | "CARD 1" | False
 ----1 | "CARD 2" | True
 ------> 2.35035797776%                                   #Note: these hands should be able to produce the final combo
+```
 
 	notes: 
 	- you can have MORE than 1 final Combo 
@@ -60,6 +62,7 @@ Cards in deck: 40
 
 
 copy pastable eg.
+```
 Non-Brick Perc --> 30.361965024%
 
 Cards in deck: 40
@@ -82,4 +85,4 @@ Cards in deck: 40
 ----1 | A | False
 ----3 | B | True
 ----3 | C | True
-------> 8.57303406646%
+------> 8.57303406646%```
